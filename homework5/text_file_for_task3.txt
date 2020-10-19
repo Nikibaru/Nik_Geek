@@ -1,0 +1,8 @@
+Nikiforov 20000
+Spiridonov 15000
+Volkov 32000
+Kaplan 16000
+Vasilieva 17000
+Kuznetcov 42000
+Guriev 19000
+Ershova 26000
