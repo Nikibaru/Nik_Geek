@@ -1,0 +1,4 @@
+first string
+second string is longer then first
+third string is longer then two previous strings
+forth string is not so long
